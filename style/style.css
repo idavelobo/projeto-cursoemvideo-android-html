@@ -30,6 +30,7 @@
 body {
     background-color: var(--cor0);
     font-family: var(--fonte_padrao);
+    max-width: 200px;
 }
 
 main p{
@@ -137,7 +138,7 @@ nav > a:active{
 
 main{
     background-color: white;
-    min-width: 340px;
+    min-width: 210px;
     max-width: 830px;
     margin: auto;
     margin-bottom: 30px;
